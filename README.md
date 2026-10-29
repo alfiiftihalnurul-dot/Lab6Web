@@ -131,7 +131,7 @@ pengujian, lalu mengembalikannya setelah pengamatan.
 selesai diparsing. Pemilihan elemen bisa menghasilkan ````null```` dan
 menyebabkan error. Catat hasil aktual dari Console, karena error tidak
 selalu muncul dengan bentuk yang sama.
-![ss](ss/ft15.png)
+![ss](ss/ft19.png)
 
 # 7. Jawaban Pertanyaan Evaluasi
 **1. Apa yang dimaksud dengan DOM dan apa manfaatnya?**
