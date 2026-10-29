@@ -3,9 +3,9 @@
 - Mata kuliah: Pemrograman Web
 - Pertemuan: 7
 - Topik: JavaScript DOM dan Event Handling
-- Nama: \Alfi Iftihal Nurul Afiat\
-- NIM: \312510041\
-- Kelas: \I251D\
+- Nama: Alfi Iftihal Nurul Afiat
+- NIM: 312510041
+- Kelas: I251D
 - Repository: Lab6Web
 # 1. Tujuan Praktikum
 1. Memahami DOM sebagai representasi dokumen HTML yang dapat diakses
